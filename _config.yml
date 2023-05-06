@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Wei Wang"
   avatar           : "profile.png"
-  bio              : "Professor <br><a href = 'http://www,hqu.edu.cn'>Department of Management Information Systems</a>, College of Business Administration, Huaqiao University"
-  location         : "Location"
+  bio              : "Professor <br><a href = 'https://ggxy.hqu.edu.cn/szdw1/xxglx.htm' target = 'balnk'>Department of Management Information Systems</a> <br><a href = 'https://ggxy.hqu.edu.cn/index.htm' target = 'balnk'>College of Business Administration </a > <br><a href = 'https://www.hqu.edu.cn/' target = 'balnk'>Huaqiao University</a>"
+  location         : "Fujian, Quanzhou"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=c-UHUdwAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://wayswang.github.io"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-5981-7312"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
