@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei Wang / Site Title"
+title                    : "Wei Wang / 王伟"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Wei Wang"
 description              : &description "personal description"
 url                      : https://wayswang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=c-UHUdwAAAAJ"
-  email            :
+  email            : wwang@hqu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://wayswang.github.io"
+  github           : "wayswang"
   google_plus      :
   keybase          :
   instagram        :
