@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wei Wang"
   avatar           : "profile.png"
-  bio              : "Professor, Department of Management Information Systems, College of Business Administration, Huaqiao University"
+  bio              : "Professor <br><a href = 'http://www,hqu.edu.cn'>Department of Management Information Systems</a>, College of Business Administration, Huaqiao University"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
