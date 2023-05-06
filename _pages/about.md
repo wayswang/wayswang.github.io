@@ -8,16 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor in the Department of Management Information Systems, College of Business Administration,Huaqiao University. I obtained my Ph.D. degree from the School of Economics and Management at the Tongji University in 2016.
+I am a Professor in the Department of Management Information Systems, College of Business Administration,Huaqiao University. I obtained my Ph.D. degree from the School of Economics and Management at the Tongji University in 2016, and I was a visting scholar in UCSD from 2014 to 2015.
 
 Research Interests
 ======
 My research interests inlcude:
 * FinTech & Crowds: Crowdfunding, Citizen Science, User Engagement.
 * Data Analytics: Text Mining, Personalized Recommendation.
-* Online Learning: MOOCs, Moblie Learning.
+* Online Learning: MOOCs, Mobile Learning.
 
-Getting started
+Grants
+======
+* Principal Investigator, The Impact of Interactive Short Text on Investment Intention and Financing Performance of Online Entrepreneurship Projects: A Linguistic Perspective, NSFC, 480,000CNY.
+* Principal Investigator, The Impact of Text Language Features on the Financing Effectiveness of Crowdfunding Projects: Based on Text Mining, NSFC, 170,000CNY.
+
+Grants
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
