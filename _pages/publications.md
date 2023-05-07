@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+
+
 The selected publications in English
 ======
 * **Wei Wang**, Haiwang Liu, Yenchun Jim Wu, Mark Goh. Disconfirmation Effect on Online Reviews and Learner Satisfaction Determinants in MOOCs. <i>Education and Information Technologies</i>, 2023. (DOI: [10.1007/s10639-023-11824-3](https://doi.org/10.1007/s10639-023-11824-3))
@@ -20,17 +22,17 @@ The selected publications in English
 * **Wei Wang**, Yongyong Zhao, Yenchun Jim Wu, Mark Goh. Interaction strategies in online learning: Insights from text analytics on iMOOC. <i>Education and Information Technologies</i>, 2023, 28: 2145-2172. (DOI: [10.1007/s10639-022-11270-7](https://doi.org/10.1007/s10639-022-11270-7))
 * **Wei Wang**, Yuting Xu, Yenchun Jim Wu, Mark Goh. Linguistic Information Distortion on Investment Decision Making in the Crowdfunding Market. <i>Management Decision</i>, 2022, 60(3): 648-672. (DOI: [10.1108/MD-09-2020-1203](https://doi.org/10.1108/MD-09-2020-1203))
 * Xicheng Yin, Kevin Zhu, Hongwei Wang, Jiaping Zhang, **Wei Wang**, Heng Zhang. Motivating Participation in Crowdsourcing Contests: The Role of Instruction-writing Strategy. <i>Information & Management</i>, 2022, 59(3): 103616. (DOI: [10.1016/j.im.2022.103616](https://doi.org/10.1016/j.im.2022.103616))
-* **Wei Wang**, Yuting Xu, Yenchun Jim Wu, Mark Goh. Linguistic Understandability, Signal Observability, Funding Opportunities, and Crowdfunding Campaigns. <i>Information & Management</i>, 2022, 59(2): 103591. (DOI: 10.1016/j.im.2022.103591](https://doi.org/10.1016/j.im.2022.103591))
-* **Wei Wang**, Lihuan Guo, Yenchun Jim Wu, Mark Goh, Shouyi Wang. Content-oriented or Persona-oriented? A Text Analytics of Endorsement Strategies on Public Willingness to Participate in Citizen Science. <i>Information Processing & Management</i>, 2022, 59(2): 102832. (DOI: 10.1016/j.ipm.2021.102832](https://doi.org/10.1016/j.ipm.2021.102832))
-* **Wei Wang**, Lihuan Guo, Yenchun Jim Wu. The Merits of a Sentiment Analysis of Antecedent Comments for the Prediction of Online Fundraising Outcomes. <i>Technological Forecasting and Social Change</i>, 2022, 174: 121070. (DOI: 10.1016/j.techfore.2021.121070](https://doi.org/10.1016/j.techfore.2021.121070))
-* **Wei Wang**, Ling He, Yenchun Jim Wu, Mark Goh. Signaling Persuasion in Crowdfunding Entrepreneurial Narratives: The Subjectivity vs Objectivity Debate. <i>Computers in Human Behavior</i>, 2021, 114: 106576. (DOI: 10.1016/j.chb.2020.106576](https://doi.org/10.1016/j.chb.2020.106576))
-* Xicheng Yin, Hongwei Wang, **Wei Wang**, Kevin Zhu. Task recommendation in crowdsourcing systems: A bibliometric analysis. <i>Technology in Society</i>, 2020, 63: 101337. (DOI: 10.1016/j.techsoc.2020.101337](https://doi.org/10.1016/j.techsoc.2020.101337))
-* **Wei Wang**, Wei Chen, Kevin Zhu, Hongwei Wang. Emphasizing the Entrepreneur or the Idea? The Impact of Text Content Emphasis on Investment Decisions in Crowdfunding. <i>Decision Support Systems</i>, 2020, 136: 113341. (DOI: 10.1016/j.dss.2020.113341](https://doi.org/10.1016/j.dss.2020.113341))
-* **Wei Wang**, Hongsheng Zheng, Yenchun Jim Wu. Prediction of Fundraising Outcomes for Crowdfunding Projects based on Deep Learning: A Multimodel Comparative Study. <i>Soft Computing</i>, 2020, 24(11): 8323-8341. (DOI: 10.1007/s00500-020-04822-x](https://doi.org/10.1007/s00500-020-04822-x))
-* **Wei Wang**, Lihuan Guo, Ling He, Yenchun Jim Wu. Effects of Social-interactive Engagement on the Dropout Ratio in Online Learning: Insights from MOOC. <i>Behaviour & Information Technology</i>, 2019, 38(6): 621-636. (DOI: 10.1080/0144929X.2018.1549595](https://doi.org/10.1080/0144929X.2018.1549595))
-* **Wei Wang**, Lihuan Guo, Rui Sun. Rational Herd Behavior in Online Learning: Insights from MOOC. <i>Computers in Human Behavior</i>, 2019, 92: 660-669. (DOI: 10.1016/j.chb.2017.10.009](https://doi.org/10.1016/j.chb.2017.10.009))
-* Xie K, Kwok L, **Wei Wang**. Monetizing Managerial Responses on TripAdvisor: Performance Implications Across Hotel Classes. <i>Cornell Hospitality Quarterly</i>, 2017, 58（3）：240-252. (DOI: 10.1177/19389655166861](https://doi.org/10.1177/19389655166861))
-* Xie K, Kwok L, **Wei Wang**. Joint Effects of Management Responses and Online Reviews on Hotel Financial Performance: A Data-analytics Approach. <i>International Journal of Hospitality Management</i>, 2017, 62: 101-110. (DOI: 10.1016/j.ijhm.2016.12.004](https://doi.org/10.1016/j.ijhm.2016.12.004))
+* **Wei Wang**, Yuting Xu, Yenchun Jim Wu, Mark Goh. Linguistic Understandability, Signal Observability, Funding Opportunities, and Crowdfunding Campaigns. <i>Information & Management</i>, 2022, 59(2): 103591. (DOI: [10.1016/j.im.2022.103591](https://doi.org/10.1016/j.im.2022.103591))
+* **Wei Wang**, Lihuan Guo, Yenchun Jim Wu, Mark Goh, Shouyi Wang. Content-oriented or Persona-oriented? A Text Analytics of Endorsement Strategies on Public Willingness to Participate in Citizen Science. <i>Information Processing & Management</i>, 2022, 59(2): 102832. (DOI: [10.1016/j.ipm.2021.102832](https://doi.org/10.1016/j.ipm.2021.102832))
+* **Wei Wang**, Lihuan Guo, Yenchun Jim Wu. The Merits of a Sentiment Analysis of Antecedent Comments for the Prediction of Online Fundraising Outcomes. <i>Technological Forecasting and Social Change</i>, 2022, 174: 121070. (DOI: [10.1016/j.techfore.2021.121070](https://doi.org/10.1016/j.techfore.2021.121070))
+* **Wei Wang**, Ling He, Yenchun Jim Wu, Mark Goh. Signaling Persuasion in Crowdfunding Entrepreneurial Narratives: The Subjectivity vs Objectivity Debate. <i>Computers in Human Behavior</i>, 2021, 114: 106576. (DOI: [10.1016/j.chb.2020.106576](https://doi.org/10.1016/j.chb.2020.106576))
+* Xicheng Yin, Hongwei Wang, **Wei Wang**, Kevin Zhu. Task recommendation in crowdsourcing systems: A bibliometric analysis. <i>Technology in Society</i>, 2020, 63: 101337. (DOI: [10.1016/j.techsoc.2020.101337](https://doi.org/10.1016/j.techsoc.2020.101337))
+* **Wei Wang**, Wei Chen, Kevin Zhu, Hongwei Wang. Emphasizing the Entrepreneur or the Idea? The Impact of Text Content Emphasis on Investment Decisions in Crowdfunding. <i>Decision Support Systems</i>, 2020, 136: 113341. (DOI: [10.1016/j.dss.2020.113341](https://doi.org/10.1016/j.dss.2020.113341))
+* **Wei Wang**, Hongsheng Zheng, Yenchun Jim Wu. Prediction of Fundraising Outcomes for Crowdfunding Projects based on Deep Learning: A Multimodel Comparative Study. <i>Soft Computing</i>, 2020, 24(11): 8323-8341. (DOI: [10.1007/s00500-020-04822-x](https://doi.org/10.1007/s00500-020-04822-x))
+* **Wei Wang**, Lihuan Guo, Ling He, Yenchun Jim Wu. Effects of Social-interactive Engagement on the Dropout Ratio in Online Learning: Insights from MOOC. <i>Behaviour & Information Technology</i>, 2019, 38(6): 621-636. (DOI: [10.1080/0144929X.2018.1549595](https://doi.org/10.1080/0144929X.2018.1549595))
+* **Wei Wang**, Lihuan Guo, Rui Sun. Rational Herd Behavior in Online Learning: Insights from MOOC. <i>Computers in Human Behavior</i>, 2019, 92: 660-669. (DOI: [10.1016/j.chb.2017.10.009](https://doi.org/10.1016/j.chb.2017.10.009))
+* Xie K, Kwok L, **Wei Wang**. Monetizing Managerial Responses on TripAdvisor: Performance Implications Across Hotel Classes. <i>Cornell Hospitality Quarterly</i>, 2017, 58（3）：240-252. (DOI: [10.1177/19389655166861](https://doi.org/10.1177/19389655166861))
+* Xie K, Kwok L, **Wei Wang**. Joint Effects of Management Responses and Online Reviews on Hotel Financial Performance: A Data-analytics Approach. <i>International Journal of Hospitality Management</i>, 2017, 62: 101-110. (DOI: [10.1016/j.ijhm.2016.12.004](https://doi.org/10.1016/j.ijhm.2016.12.004))
 
 
 
@@ -51,4 +53,11 @@ The selected publications in Chinese
 
 Work papers
 ======
+* **王伟**, Ying Li. Can Crowdfunding be Used as a Reliable Source of Financing for Early-stage Entrepreneurial Ventures?. 
+* **王伟**, Ying Li. Enlarge or Narrow the Gap? How does China's High-speed Railway Affect Income Inequality in Regions Along the Line. 
+
+
+
+
+
 
