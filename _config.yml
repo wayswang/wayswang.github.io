@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wei Wang"
   avatar           : "profile.png"
-  bio              : "Professor <br>Department of Management Information Systems <br><a href = 'https://ggxy.hqu.edu.cn/index.htm' target = 'balnk'>College of Business Administration </a > <br><a href = 'https://www.hqu.edu.cn/' target = 'balnk'>Huaqiao University</a>"
+  bio              : "Professor <br>Department of Management Information Systems <br>College of Business Administration <br> <a href = 'https://www.hqu.edu.cn/' target = 'balnk'>Huaqiao University</a>"
   location         : "Fujian, Quanzhou"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wayswang"
+  github           : #"wayswang"
   google_plus      :
   keybase          :
   instagram        :
