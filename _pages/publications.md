@@ -53,9 +53,9 @@ The selected publications in Chinese
 
 Work papers
 ======
-* **王伟**, Ying Li. Can Crowdfunding be Used as a Reliable Source of Financing for Early-stage Entrepreneurial Ventures?. 
-* **王伟**, Ying Li. Enlarge or Narrow the Gap? How does China's High-speed Railway Affect Income Inequality in Regions Along the Line. 
-
+* **Wei Wang**, Ying Li. Can Crowdfunding be Used as a Reliable Source of Financing for Early-stage Entrepreneurial Ventures?. 
+* **Wei Wang**, Ying Li. Enlarge or Narrow the Gap? How does China's High-speed Railway Affect Income Inequality in Regions Along the Line. 
+* **Wei Wang**, Haiwang Liu. The Sentiment Discreteness Effect of Online Reviews’ Disconfirmation: Textual Analytics in MOOCs. 
 
 
 
